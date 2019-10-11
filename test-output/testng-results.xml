@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="133401" started-at="2019-08-18T08:51:55Z" finished-at="2019-08-18T08:54:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="133401" started-at="2019-08-18T08:51:55Z" finished-at="2019-08-18T08:54:08Z">
+      <class name="Test.Calculation">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:Test.Calculation@271053e1]" name="reportSetup" is-config="true" duration-ms="6840" started-at="2019-08-18T08:51:48Z" finished-at="2019-08-18T08:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.Calculation@271053e1]" name="setup" is-config="true" duration-ms="128200" started-at="2019-08-18T08:51:55Z" finished-at="2019-08-18T08:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:Test.Calculation@271053e1]" name="testOne" duration-ms="4991" started-at="2019-08-18T08:54:03Z" finished-at="2019-08-18T08:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.Calculation@271053e1]" name="tearDown" is-config="true" duration-ms="4949" started-at="2019-08-18T08:54:11Z" finished-at="2019-08-18T08:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.Calculation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
